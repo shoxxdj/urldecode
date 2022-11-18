@@ -4,7 +4,7 @@ What did you expect ?
 
 # Setup
 
-go get github.com/shoxxdj/urldecode
+go install github.com/shoxxdj/urldecode@latest
 
 # Usage
 
